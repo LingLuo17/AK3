@@ -25,7 +25,9 @@ GKI 内核 |  SukiSU-Ultra/ReSukiSU
 ##### 
 ##### 
 ##### 
-## 鸣谢
+## 🌟 特别感谢
+
+-这些了不起的人-
 
 - ReSukiSU：[ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU)                                                                                                                       
 - SukiSU Ultra：[SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
@@ -35,3 +37,5 @@ GKI 内核 |  SukiSU-Ultra/ReSukiSU
 - 手动钩子等补丁：[WildKernels/kernel_patches](https://github.com/WildKernels/kernel_patches)
 - 原版KernelSU: [tiann/KernelSU](https://github.com/tiann/KernelSU)
 - 内核防格基带保护模块：[vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard)
+
+- ---
