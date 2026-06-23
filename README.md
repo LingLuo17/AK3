@@ -10,6 +10,31 @@ GKI 内核 |  SukiSU-Ultra/ReSukiSU
 
 
 ---
+<div align="center">
+
+## ⚠️ Disclaimer
+</div>
+
+- Flashing this kernel will not void your warranty, but there is always a risk of bricking your device. Please make sure to:
+- 💾 Back up your data
+- 🧠 Understand the risks before proceeding
+
+- Please make sure to back up the original boot image of this system in advance.
+
+- If your device enters an infinite boot loop after flashing, enter BootLoader and flash the original boot image back.
+
+- I take no responsibility for any issues caused by flashing this kernel.
+
+<div align="center">
+  
+# **🚨 Proceed at your own risk!**
+
+</div>
+
+
+
+
+
 
 <div align="center">
 
