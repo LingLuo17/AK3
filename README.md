@@ -72,7 +72,7 @@ GKI 内核 |  SukiSU-Ultra/ReSukiSU
 
 
 
-*If you have contributed and are not listed here, please remind me!* 🙏
+
 </div>
 
 ---
