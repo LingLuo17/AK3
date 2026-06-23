@@ -3,7 +3,7 @@
 # GKI KernelSU SUSFS
 ### 🏮 2026 🐎 Happy New Year! 🏮
 
-** GKI 内核 |  SukiSU-Ultra/ReSukiSU**
+GKI 内核 |  SukiSU-Ultra/ReSukiSU
 
 [![Coolapk](https://img.shields.io/badge/Follow-Coolapk-3DDC84?style=flat-square&logo=android&logoColor=white)](http://www.coolapk.com/u/38407386)
 
@@ -22,3 +22,16 @@
 </div>
 
 ---
+##### 
+##### 
+##### 
+## 鸣谢
+
+- ReSukiSU：[ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU)                                                                                                                       
+- SukiSU Ultra：[SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
+- susfs4ksu：[ShirkNeko/susfs4ksu](https://github.com/ShirkNeko/susfs4ksu)
+- SukiSU内核补丁：[SukiSU-Ultra/SukiSU_patch](https://github.com/SukiSU-Ultra/SukiSU_patch)
+- pershoot维护的KernelSU Next分支：[pershoot/KernelSU-Next](https://github.com/pershoot/KernelSU-Next)
+- 手动钩子等补丁：[WildKernels/kernel_patches](https://github.com/WildKernels/kernel_patches)
+- 原版KernelSU: [tiann/KernelSU](https://github.com/tiann/KernelSU)
+- 内核防格基带保护模块：[vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard)
