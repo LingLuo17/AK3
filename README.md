@@ -13,6 +13,7 @@ GKI 内核 |  SukiSU-Ultra/ReSukiSU
 <div align="center">
 
 ## ⚠️ Disclaimer
+
 </div>
 
 - Flashing this kernel will not void your warranty, but there is always a risk of bricking your device. Please make sure to:
@@ -31,12 +32,8 @@ GKI 内核 |  SukiSU-Ultra/ReSukiSU
 
 </div>
 
-
-
-
-
-
 <div align="center">
+
 
 ## 🔧 Available Kernels
 
@@ -50,20 +47,31 @@ GKI 内核 |  SukiSU-Ultra/ReSukiSU
 </div>
 
 ---
-##### 
-##### 
-##### 
-## 🌟 特别感谢
 
--这些了不起的人-
+<div align="center">
 
-- ReSukiSU：[ReSukiSU/ReSukiSU](https://github.com/ReSukiSU/ReSukiSU)                                                                                                                       
-- SukiSU Ultra：[SukiSU-Ultra/SukiSU-Ultra](https://github.com/SukiSU-Ultra/SukiSU-Ultra)
-- susfs4ksu：[ShirkNeko/susfs4ksu](https://github.com/ShirkNeko/susfs4ksu)
-- SukiSU内核补丁：[SukiSU-Ultra/SukiSU_patch](https://github.com/SukiSU-Ultra/SukiSU_patch)
-- pershoot维护的KernelSU Next分支：[pershoot/KernelSU-Next](https://github.com/pershoot/KernelSU-Next)
-- 手动钩子等补丁：[WildKernels/kernel_patches](https://github.com/WildKernels/kernel_patches)
-- 原版KernelSU: [tiann/KernelSU](https://github.com/tiann/KernelSU)
-- 内核防格基带保护模块：[vc-teahouse/Baseband-guard](https://github.com/vc-teahouse/Baseband-guard)
+  
+## 🌟 Special Thanks
 
-- ---
+
+**These amazing people help make this project possible! ❤️**
+
+
+
+| 🔧 **Project** | 👨‍💻 **Developer** | 🔗 **Link** |
+|:---------------:|:----------------:|:-----------:|
+| **KernelSU** | tiann | [![GitHub](https://img.shields.io/badge/GitHub-tiann-blue?style=flat-square&logo=github)](https://github.com/tiann/KernelSU) |
+| **KernelSU-Next** | rifsxd | [![GitHub](https://img.shields.io/badge/GitHub-rifsxd-blue?style=flat-square&logo=github)](https://github.com/KernelSU-Next/KernelSU-Next) |
+| **Magic-KSU** | 5ec1cff | [![GitHub](https://img.shields.io/badge/GitHub-5ec1cff-blue?style=flat-square&logo=github)](https://github.com/5ec1cff/KernelSU) |
+| **SUSFS** | simonpunk | [![GitLab](https://img.shields.io/badge/GitLab-simonpunk-orange?style=flat-square&logo=gitlab)](https://gitlab.com/simonpunk/susfs4ksu.git) |
+| **SUSFS Module** | sidex15 | [![GitHub](https://img.shields.io/badge/GitHub-sidex15-blue?style=flat-square&logo=github)](https://github.com/sidex15) |
+| **Sultan Kernels** | kerneltoast | [![GitHub](https://img.shields.io/badge/GitHub-kerneltoast-blue?style=flat-square&logo=github)](https://github.com/kerneltoast) |
+| **Baseband Guard** | vc-teahouse | [![GitHub](https://img.shields.io/badge/GitHub-vc--teahouse-blue?style=flat-square&logo=github)](https://github.com/vc-teahouse/Baseband-guard.git) |
+| **Droidspaces** | ravindu644 | [![GitHub](https://img.shields.io/badge/GitHub-ravindu644-blue?style=flat-square&logo=github)](https://github.com/ravindu644/Droidspaces-OSS.git) |
+
+
+
+*If you have contributed and are not listed here, please remind me!* 🙏
+</div>
+
+---
