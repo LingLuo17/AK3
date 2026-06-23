@@ -6,12 +6,15 @@
 GKI 内核 |  SukiSU-Ultra/ReSukiSU
 
 [![Coolapk](https://img.shields.io/badge/Follow-Coolapk-3DDC84?style=flat-square&logo=android&logoColor=white)](http://www.coolapk.com/u/38407386)
+</div>
+
 
 ---
 
+<div align="center">
+
 ## 🔧 Available Kernels
 
-<div align="center">
 
 | Kernel | Repository | Status |
 |--------|------------|--------|
