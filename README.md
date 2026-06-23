@@ -23,7 +23,7 @@ GKI Kernel |  SukiSU-Ultra/ReSukiSU
 
 - Please make sure to back up the original boot image of this system in advance.
 
-- If your device enters an infinite boot loop after flashing, enter BootLoader and flash the original boot image back.
+- If flashing AnyKernel3 causes your device to enter an infinite boot loop or fail to boot, enter BootLoader and flash the original boot image back.
 
 - I take no responsibility for any issues caused by flashing this kernel.
 
