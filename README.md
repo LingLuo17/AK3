@@ -7,6 +7,8 @@ GKI Kernel |  SukiSU-Ultra/ReSukiSU
 
 [![Coolapk](https://img.shields.io/badge/Follow-Coolapk-3DDC84?style=flat-square&logo=android&logoColor=white)](http://www.coolapk.com/u/38407386)
 [<img src="https://img.shields.io/badge/Join-QQ%20Group-blue?style=flat-square&logo=github&logoColor=white">](https://qm.qq.com/q/PZIFvlcbqU)
+
+[简体中文](README.md) | English
 </div>
 
 
